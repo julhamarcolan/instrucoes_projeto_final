@@ -35,10 +35,10 @@
   - **Configuração Inicial:** Parâmetros iniciais podem ser ajustados, como [velocidade inicial, posição, massa], permitindo diferentes experimentos.
   
 - **Informações sobre o projeto:**
-- 
+ 
   Esste projeto foi desenvolvido por:
-  Marie Curie de oliveira: marie_olibeira@usp.br
-  Isac Newton da Silva: isac_1995@usp.br
+      Marie Curie de oliveira: marie_olibeira@usp.br
+      Isac Newton da Silva: isac_1995@usp.br
   
   Como parte do processo avaliativo da disciplina 7600105 - Física Básica I (2024) da USP-São Carlos ministrada pela(o) [Prof. Krissia de Zawadzki/Esmerindo de Sousa Bernardes] 
 
