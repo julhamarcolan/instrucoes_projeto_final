@@ -44,5 +44,5 @@
   
   Como parte do processo avaliativo da disciplina 7600105 - Física Básica I (2024) da USP-São Carlos ministrada pela(o) [Prof. Krissia de Zawadzki/Esmerindo de Sousa Bernardes] 
 
-
+OBS: você pode encontrar um modelo/exemplo em: https://github.com/julhamarcolan/queda_livre
 
